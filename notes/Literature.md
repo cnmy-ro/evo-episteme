@@ -1,8 +1,9 @@
 # Literature
 
+
 ## Books
 
-### The Myth of the Framework (Book)
+### The Myth of the Framework (Book, 19xx)
 1. The Rationality of Scientific Revolutions
 2. The Myth of the Framework
     - 16 sections
@@ -15,7 +16,7 @@
 9. Epistemology and Industrialization
 
 
-### Conjectures and Refutations
+### Conjectures and Refutations (19xx)
 
 - INTRODUCTION
 
@@ -123,7 +124,18 @@
         10. An Argument, due to Mark Twain, against Naïve Empiricism (1989)
 
 
-### The Open Universe
+### The Logic of Scientific Discovery (19xx)
+TODO
+
+
+
+### Realism and the Aim of Science
+From "Postscript to The Logic of Scientific Discovery"
+
+
+
+### The Open Universe (19xx)
+From "Postscript to The Logic of Scientific Discovery"
 
 1. Chapter 1: KINDS OF DETERMINISM
     1.  Determinism: Religious, 'Scientific', and Metaphysical.
@@ -180,15 +192,27 @@
 7. Addendum 3: FURTHER REMARKS ON REDUCTION, 1981
 
 
-### Objective Knowledge: An Evolutionary Approach
+### Quantum Theory and the Schism in Physics (19xx)
+From "Postscript to The Logic of Scientific Discovery"
+
+
+### Objective Knowledge: An Evolutionary Approach (19xx)
+TODO
+
+
+### All Life is Problem Solving (19xx)
 TODO
 
 
 
 ## Essays
 
-### On the Sources of Knowledge and Ignorance
-17 sections
+### On the Sources of Knowledge and Ignorance (19xx)
+- 17 sections
+
+### The Myth of the Framework (Essay, 19xx)
+- Chapter 2 of the book "The Myth of the Framework"
+- 16 sections
 
 ### Epistemology Without a Knowling Subject
 TODO
@@ -198,8 +222,7 @@ TODO
 
 ## Papers
 
-### A Proof of the Impossibility of Inductive Probability
-
+### A Proof of the Impossibility of Inductive Probability (1983)
 - a.k.a. The Popper-Miller Theorem
 - 1983 Nature letter: https://fitelson.org/probability/popper_miller.pdf
 

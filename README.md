@@ -1,3 +1,3 @@
-# evo-episteme
+# Evo-Episteme
 
-Notes on the evolutionary epistemology of Karl Popper.
+Exploration of the evolutionary epistemology of Karl Popper.

@@ -10,7 +10,7 @@
 
 
 - Theory-laden-ness of observations:
-    - The core idea is that a "pure observation" does not exist because all observations are made in the context of some certain problem and some certain framework.
+    - The core idea is that a "pure observation" does not exist because all observations are made in the context of some certain problem and some certain framework. Any observation is a response from Nature to a very specific set of yes-no questions asked consciously or subconsiously by the enquiring agent, questions asking for a selection of a viable hypothesis among other competing ones.
     - "Almost forty years ago I stressed that even observations, and reports of observations, are under the sway of theories or, if you like, under the sway of a framework. Indeed there is no such thing as an uninterpreted observation, an observation which is not theory-impregnated. In fact, our very eyes and ears are the result of evolutionary adaptations - that is, of the method of trial and error corresponding to the method of conjectures and refutations. Both methods are adjustments to environmental regularities. A simple example will show that ordinary visual experiences have a pre- Parmenidian absolute sense of up and down built into them - a sense which is no doubt genetically based. The example is this. A square standing on one of its sides looks to all of us a different figure from a square standing on one of its corners. There is a real Gestalt shift in moving from one figure to the other." (MotF chap.2)
     - "But I assert that the fact that observations are theory-impregnated does not lead to incommensurability between either observations or theories. For the old observations can be consciously reinterpreted: we can learn that the two squares are different positions of the same square. This is made even easier just because of the genetically based interpretations: no doubt we understand each other so well partly because we share so many physiological mechanisms that are built into our genetic system." (MotF chap.2)
     - "Yet I assert that it is possible for us to transcend even our genetically based physiology. This we do by the critical method. We can understand even a bit of the language of the bees. Admittedly, this understanding is conjectural and rudimentary. But almost all understanding is conjectural, and the deciphering of a new language is always rudimentary to start with." (MotF chap.2)
@@ -86,7 +86,7 @@
     - "Indeterminism is not enough: to understand human freedom we need more; we need the openness of World 1 towards World 2, and of World 2 towards World 3, and the autonomous and intrinsic openness of World 3, the world of the products of the human mind and, especially, of human knowledge." (OU, add.1)
 
 
-- Reductionism:
+- On reductionism:
     - "[...] there do not seem to be any good arguments in favour of philosophical reductionism, while, on the contrary, there are good arguments against essentialism, with which philosophical reductionism seems to be closely allied. We should, nevertheless, on methodological grounds, continue to attempt reductions. For we can learn an immense amount even from unsuccessful or incomplete attempts at reduction, and problems left open in this way belong to our most valuable intellectual possessions: a greater emphasis upon what are often regarded as our scientific failures (or, in other words, upon the great open problems of science) can do us a lot of good." (OU add.2)
 
 
