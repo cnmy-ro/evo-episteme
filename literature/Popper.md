@@ -1,4 +1,4 @@
-# Literature
+# Literature: Karl Popper
 
 
 ## Books
@@ -138,7 +138,7 @@ From "Postscript to The Logic of Scientific Discovery"
 From "Postscript to The Logic of Scientific Discovery"
 
 1. Chapter 1: KINDS OF DETERMINISM
-    1.  Determinism: Religious, 'Scientific', and Metaphysical.
+    1. Determinism: Religious, 'Scientific', and Metaphysical.
     2. Why-Questions. Causality and 'Scientific' Determinism.
     3. The Principle of Accountability.
     4. The Study of Behaviour and the Principle of Accountability.
@@ -196,12 +196,25 @@ From "Postscript to The Logic of Scientific Discovery"
 From "Postscript to The Logic of Scientific Discovery"
 
 
-### Objective Knowledge: An Evolutionary Approach (19xx)
-TODO
+### Objective Knowledge: An Evolutionary Approach (1972)
+1. Conjectural Knowledge: My Solution of the Problem of Induction
+2. Two Faces of Common Sense: An argument for Commonsense Realism and Against the Commonsense Theory of Realism
+3. Epistemology Without a Knowing Subject
+4. On the Theory of the Objective Mind
+5. The Aim of Science
+6. Of Clouds and Clocks
+7. Evolution and the Tree of Knowledge
+8. A Realist View of Logic, Physics and History
+9. Philosophical Comments on Tarski's Theory of Truth
+Addendum: A Note on Tarski's Definition of Truth
+Appendix 1. The Blanket and the Searchlight: Two Theories of Knowledge
+Appendix 2: Supplementary Remarks.
+
 
 
 ### All Life is Problem Solving (19xx)
 TODO
+
 
 
 
@@ -214,22 +227,14 @@ TODO
 - Chapter 2 of the book "The Myth of the Framework"
 - 16 sections
 
-### Epistemology Without a Knowling Subject
-TODO
-
-
 
 
 ## Papers
-
-### A Proof of the Impossibility of Inductive Probability (1983)
-- a.k.a. The Popper-Miller Theorem
-- 1983 Nature letter: https://fitelson.org/probability/popper_miller.pdf
+- A Proof of the Impossibility of Inductive Probability (1983)
+    - a.k.a. The Popper-Miller Theorem
+    - 1983 Nature letter: https://fitelson.org/probability/popper_miller.pdf
 
 
 
 ## Secondary Literature
-
-- David Deutsch - The Fabric of Reality
-- David Deutsch - The Beginning of Infinity
 - Nielson, Elton - Induction, Popper, and Machine Learning. [(arXiv 2021)](https://arxiv.org/abs/2110.00840)

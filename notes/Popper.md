@@ -1,5 +1,22 @@
 
-# Excerpts
+# Karl Popper
+
+## Concepts
+- Problem
+- Conjecture, refutation
+- Falsifiability criterion
+- Content of a conjecture/theory/hypothesis
+- Pseudo-problem of induction
+- Determinism: 
+    - Determistic theory (prima facie deterministic) vs. deterministic world
+    - Principle of Accountability
+    - Strong vs. weak accountability
+- Propensity
+- Knowledge and ignorance
+
+
+## Excerpts
+
 
 - What is a "framework":
     - The myth of the framework can be stated in one sentence, as follows: A rational and fruitful discussion is impossible unless the participants share a common framework of basic assumptions or, at least, unless they have agreed on such a framework for the purpose of the discussion. (MotF chap.2)
