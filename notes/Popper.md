@@ -1,6 +1,7 @@
 
 # Karl Popper
 
+
 ## Concepts
 - Problem
 - Conjecture, refutation
@@ -13,6 +14,32 @@
     - Strong vs. weak accountability
 - Propensity
 - Knowledge and ignorance
+
+
+## Summaries
+
+Core theses:
+- Perfect knowledge of the essences of things in the world is not possible. All one can hope is to be less ignorant by removing errors.
+- Knowledge creation is always problem-centric. A problem is characterized by either logical inconsistencies or inconsistencies between one's predictions and the empirical reality.
+Knowledge is created by evolutionary selection-like mechanism of conjectures and refutations. Conjecture is always an internally generated action of an entity/agent in the effort to explain the world.
+- It is in the nature of all life (and perhaps even non-living systems to some degree) to seek/create knowledge.
+All observations are theory-laden. There is no such thing as freely "reading from the book of Nature", i.e. pure induction doesn't exist. Observations consitute answers from Nature to a specific set of questions, which in turn are expressed using a certain languagustic structure (i.e. a set of abstractions and rules of inference) constituting one's current theory of the World.
+- Rationality (of science and also in the general sense) lies not in logical deduction from a fixed set of axioms (by symbol-shunting within some formal system), but rather in the ability to criticize those axioms and self-correct by creating new viable theories/explanations.
+- Language use can be structured into 4 hierarchical aspects: expressive, signalling, descriptive, argumentative. No mechanistic causal model of the descriptive and argumentative aspects can logically exist (CaR).
+- Scientific theories should be seen like nets. One can only hope to make the net progressively finer. There will always be aspects of reality which our theory (fundamental or otherwise) does not model. Therefore, the world cannot be perfectly determined. (OU)
+- In terms of determinism/predictability, Clocks and Clouds are two fundamentally different categories.
+When talking about determinism, a distinction must be made between statements about the theory and statements about reality. A theory can be prima facie deterministic; in fact, it must be in order to be testable/accountable. On the other hand, the statement about the determinism of the real world, called "scientific" determinism (as expressed by Laplace) is a position which cannot be defended since, at the very least, our best theories (which are our imperfect and the only available windows to reality) must clearly be shown to be accountable, which seems difficult (e.g. for classical Newtonian dynamics). And even when the theory is prima facie deterministic, scientific determinism doesn't automatically follow (e.g. in the case of special relativity). (OU)
+- "We cannot predict, scientifically, results which we shall obtain in the course of the growth of our own knowledge." (OU, sec.20, p.62)
+
+
+Some criteria:
+- Classification criterion for a theory: scientific if empirically testable, metaphysical if not (CaR)
+- Criterion for the rationality of a metaphysical theory: A rational analysis of whether or not it solves the problem in the context of which it appeared? (CaR)
+- Criterion for soundness of a theory even before testing it: Empirical content of this theory (CaR)
+- Principle of Accountability (OU, sec.1)
+    - Weak version: Given exact initial condition, one can predict the system state with given degree of precision at any point infinitely into the future. This is violated when, e.g. floating point limits of finite computers do not allow precise prediction, even in principle.
+    - Strong version: For a given precision of the prediction task's output, one can determine at what precision the initial condition must be measured before doing the prediction task.
+    - Classical Newtonian dynamics, in the general form of the macroscopic n-body problem, is neither strongly nor weakly accountable.
 
 
 ## Excerpts

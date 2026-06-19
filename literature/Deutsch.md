@@ -50,3 +50,4 @@ Constructor Theory:
 - Marletto. Constructor theory of thermodynamics. [arXiv 2016](https://arxiv.org/abs/1608.02625)
 - Marletto. Constructor theory of probability. [Proceedings of the Royal Society A 2016](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2015.0883)
 - Deutsch, Marletto. Constructor theory of time. [arXiv 2025](https://arxiv.org/abs/2505.08692)
+- Marletto, Deutsch, Vedral. Tests of constructor theory. [arXiv 2026](https://arxiv.org/abs/2606.07352)
