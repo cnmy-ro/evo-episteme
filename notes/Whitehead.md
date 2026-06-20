@@ -7,7 +7,10 @@
 - Assemblage vs. system-building
 - Importance vs. Matter-of-Fact
 - Prehension
+- Concrescence
 - Actual entities vs. Abstractions
+- Eternal objects
+- God
 - Creativity
 
 
