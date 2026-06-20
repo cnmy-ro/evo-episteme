@@ -43,7 +43,11 @@
 
 ## Papers
 
-Constructor Theory:
+Universal quantum computer:
+- Deutsch. Quantum theory, the Church-Turing principle and the universal quantum computer. [(Proc. Royal Society A, 1985)](https://www.daviddeutsch.org.uk/wp-content/deutsch85.pdf)
+
+
+Constructor theory:
 - Deutsch. Constructor theory. [Synthese 2013](https://link.springer.com/article/10.1007/s11229-013-0279-z)
 - Deutsch, Marletto. Constructor theory of information. [Proceedings of the Royal Society A 2015](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2014.0540)
 - Marletto. Constructor theory of life. [Journal of The Royal Society Interface 2015](https://royalsocietypublishing.org/doi/abs/10.1098/rsif.2014.1226)
