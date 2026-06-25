@@ -238,3 +238,4 @@ TODO
 
 ## Secondary Literature
 - Nielson, Elton - Induction, Popper, and Machine Learning. [(arXiv 2021)](https://arxiv.org/abs/2110.00840)
+- Rafe Champion's "Writings on Popper". [(webpage)](http://www.the-rathouse.com/writingsonpopper.html)
