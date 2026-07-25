@@ -6,6 +6,7 @@
 - Problem
 - Conjecture, refutation
 - Falsifiability criterion
+- Validity of metaphysics
 - Content of a conjecture/theory/hypothesis
 - Pseudo-problem of induction
 - Determinism: 
@@ -14,6 +15,15 @@
     - Strong vs. weak accountability
 - Propensity
 - Knowledge and ignorance
+
+
+## Thought experiments / philosophical proofs
+- Impossibility of fully reducing a level of explanation to an exaplantion of lower scale: difficuly of explaining chemistry from the underlying physical theory, thus requiring a theory of cosmology
+- Openness of the universe shown via the cartographer/draughtsman's mapping problem thought experiment.
+- Impossibility of mechanization of the descriptive and argumentative aspects of language
+- Non-existence of induction shown via Popper-Miller theorem
+    - Corollary: Non-existence of pure observation, or knowledge imprinted from outside onto the agent
+- Fundamental plurality of the world: ...
 
 
 ## Summaries

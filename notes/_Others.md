@@ -7,6 +7,13 @@ Concepts:
 - Theory of affects, the concept of time, and the perceived realness of things
 - Isomorphy between mental and physical aspects of the world
 - God/Nature as the sole existing substance/object/thing
+- Nature of Evil as a simple absence of truth (i.e. an error) without any positive existence of its own
+
+
+## Leibniz
+
+Concepts:
+- Monad
 
 
 ## Goethe

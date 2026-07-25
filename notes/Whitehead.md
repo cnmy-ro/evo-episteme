@@ -4,12 +4,17 @@
 
 ## Concepts
 
+- Relational ontology vs. substance ontology
 - Assemblage vs. system-building
 - Importance vs. Matter-of-Fact
-- Prehension
-- Concrescence
+- Concrescence: The dynamic, creative process by which a moment of experience (an "actual occasion") integrates diverse elements from the past into a unified, concrete whole
+- Occasion: What concreses and forms a unity
+- Event: Nexus of occasions
 - Actual entities vs. Abstractions
-- Eternal objects
+- The Principle of Relativity
+- Process
+- Prehension
+- Eternal objects: Analogue of Platonic forms, but without having their ontological superiority wrt sense experience
 - God
 - Creativity
 
