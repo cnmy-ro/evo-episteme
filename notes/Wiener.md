@@ -27,7 +27,7 @@
 
 - HUoHB (2nd ed, p...): "Progress imposes not only new possibilities for the future but new restrictions."
 
-- HUoHB (2nd ed, p...): on the wastefulness of the zero-sum mind of the skeptic
+- HUoHB (2nd ed, p...): on the wastefulness of the zero-sum / adversarial mind of the skeptic versus the advantages of the humility of the scientist
 
 - HUoHB (2nd ed, p...): "Scientific discovery consists in the interpretation for our own convenience of a system of existence which has been made with no eye to our convenience at all."
 

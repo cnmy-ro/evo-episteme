@@ -10,3 +10,4 @@
 - The Free Energy Principle
 - Bayesian mechanics
 - Active Inference
+- Autopoeisis

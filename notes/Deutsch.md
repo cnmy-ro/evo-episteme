@@ -7,9 +7,10 @@
 - Principle of self-similarity: Theories and scientific knowledge accurately mirror the abstract and concrete aspects of the physical world. By understanding the universe, our minds are effectively generating a self-similar copy of physical laws. In a way, to know something is to become that object in some sense.
 - Church-Turing-Deutsch principle: Universal quantum computers can simulate/become any other physical object.
 - Four-strand theory: a coherent synthesis of quantum theory, theory of computation, neo-Darwinism, and Popperian epistemology.
+- Constuctor: a physical object that can produce change without undergoing any change itself
 
 
-## Conjectures
+## Ideas
 
 - The space of superimposed quantum states that quantum probability functions signify can be explained by positing their realness via the many worlds interpretation
 
