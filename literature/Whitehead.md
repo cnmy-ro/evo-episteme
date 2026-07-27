@@ -30,3 +30,10 @@ III. Nature and Life
 IV. Epilogue
 
 9. The Aim of Philosophy
+
+
+
+## Secondary 
+
+- Matt Segall - Modes of Thought by Alfred North Whitehead, Rebound by Matthew David Segall
+    - PDF: https://footnotes2plato.com/wp-content/uploads/2024/10/new-transcritps-modes-of-thought-by-alfred-north-whitehead.pdf

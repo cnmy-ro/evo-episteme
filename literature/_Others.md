@@ -10,3 +10,4 @@
 - Edwin Jaynes - Prior Information and Ambiguity in Inverse Problems
 - Robert Aumann - Agreeing to Disagree
 - Judea Pearl - Causality: models, reasoning, and inference
+- Judea Pearl - Probabilistic Reasoning in Intelligent Systems
