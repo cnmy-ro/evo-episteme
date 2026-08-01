@@ -6,15 +6,15 @@
 - Problem
 - Conjecture, refutation
 - Falsifiability criterion
-- Validity of metaphysics
 - Content of a conjecture/theory/hypothesis
+- Validity of metaphysics
 - Pseudo-problem of induction
 - Determinism: 
     - Determistic theory (prima facie deterministic) vs. deterministic world
     - Principle of Accountability
     - Strong vs. weak accountability
 - Propensity
-- Knowledge and ignorance
+- Framework
 
 
 ## Thought experiments / philosophical proofs
