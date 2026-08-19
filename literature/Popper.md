@@ -3,7 +3,7 @@
 
 ## Books
 
-### The Myth of the Framework (Book, 19xx)
+### The Myth of the Framework (Book, 1994)
 1. The Rationality of Scientific Revolutions
 2. The Myth of the Framework
     - 16 sections
@@ -16,7 +16,7 @@
 9. Epistemology and Industrialization
 
 
-### Conjectures and Refutations (19xx)
+### Conjectures and Refutations (1963)
 
 - INTRODUCTION
 
@@ -124,17 +124,17 @@
         10. An Argument, due to Mark Twain, against Naïve Empiricism (1989)
 
 
-### The Logic of Scientific Discovery (19xx)
+### The Logic of Scientific Discovery (1959)
 TODO
 
 
 
-### Realism and the Aim of Science
+### Realism and the Aim of Science (1983)
 From "Postscript to The Logic of Scientific Discovery"
 
 
 
-### The Open Universe (19xx)
+### The Open Universe (1982)
 From "Postscript to The Logic of Scientific Discovery"
 
 1. Chapter 1: KINDS OF DETERMINISM
@@ -192,7 +192,7 @@ From "Postscript to The Logic of Scientific Discovery"
 7. Addendum 3: FURTHER REMARKS ON REDUCTION, 1981
 
 
-### Quantum Theory and the Schism in Physics (19xx)
+### Quantum Theory and the Schism in Physics (1982)
 From "Postscript to The Logic of Scientific Discovery"
 
 
@@ -212,25 +212,28 @@ Appendix 2: Supplementary Remarks.
 
 
 
-### All Life is Problem Solving (19xx)
+### All Life is Problem Solving (1982)
 TODO
 
+
+### Unended Quest (1976)
+TODO
 
 
 
 ## Essays
 
-### On the Sources of Knowledge and Ignorance (19xx)
+### On the Sources of Knowledge and Ignorance (1960)
 - 17 sections
 
-### The Myth of the Framework (Essay, 19xx)
+### The Myth of the Framework (Essay, 1965)
 - Chapter 2 of the book "The Myth of the Framework"
 - 16 sections
 
 
 
 ## Papers
-- A Proof of the Impossibility of Inductive Probability (1983)
+- Popper, Miller. A Proof of the Impossibility of Inductive Probability (Nature 1983)
     - a.k.a. The Popper-Miller Theorem
     - 1983 Nature letter: https://fitelson.org/probability/popper_miller.pdf
 
@@ -239,3 +242,7 @@ TODO
 ## Secondary Literature
 - Nielson, Elton - Induction, Popper, and Machine Learning. [(arXiv 2021)](https://arxiv.org/abs/2110.00840)
 - Rafe Champion's "Writings on Popper". [(webpage)](http://www.the-rathouse.com/writingsonpopper.html)
+- On Popper-Miller therorem:
+    - Simplified restatement by Vaden Masrani: https://arxiv.org/abs/2107.00749
+    - Matjaz Leonardis's work (with David Deutsch)
+    - Ryan Giordano's blog: The Popper-Miller theorem is the Bayesian transitivity paradox    

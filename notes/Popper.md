@@ -15,6 +15,7 @@
     - Strong vs. weak accountability
 - Propensity
 - Framework
+- Openness of the universe: epistemological, ontological
 
 
 ## Thought experiments / philosophical proofs

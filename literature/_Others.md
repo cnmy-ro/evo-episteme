@@ -2,9 +2,11 @@
 
 
 Physics:
+- John von Neumann - Theory of Self-reproducing Automata
+- Norbert Wiener - Cybernetics: Or Control and Communication in the Animal and the Machine
+- Eugene Wigner - The Unreasonable Effectiveness of Mathematics in Natural Sciences (1960)
 - Max Welling, Sirui Lu, Lars Holdijk - Generative AI and Stochastic Thermodynamics
 - Nielsen, Critchley, Dodson - Computational Information Geometry
-- Norbert Wiener - Cybernetics: Or Control and Communication in the Animal and the Machine
 
 Natural Sciences:
 - Goethe - The Metamorphosis of Plants
@@ -18,13 +20,13 @@ Probability theory:
 - Judea Pearl - Probabilistic Reasoning in Intelligent Systems
 
 Formal logic:
-- Gottlob Frege - Begriffsschrift; 
+- Gottlob Frege - Begriffsschrift
 - Gottlob Frege - Grundgesetze der Arithmetik
 - Bertrand Russell, Alfred North Whitehead - Principia Mathematica
 - Kurt Gödel - On Formally Undecidable Propositions of Principia Mathematica and Related Systems
 - Ernest Nagel, James R. Newman - Gödel's Proof
+- Avi Wigderson (2010). The Gödel Phenomena in Mathematics: A Modern View
 - Douglas Hofstadter - Gödel Escher Bach
-- John von Neumann - Theory of Self-reproducing Automata
 - Ray Solomonoff - A Formal Theory of Inductive Inference
 - Rathmanner, Hutter - A Philosophical Treatise of Universal Induction
 - Hutter - AIXI

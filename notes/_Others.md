@@ -27,5 +27,8 @@ Concepts:
 
 
 ## Judea Pearl
-
 - Ladder of Causation
+
+
+##
+Nomological network
