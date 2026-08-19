@@ -8,12 +8,13 @@
 - Assemblage vs. system-building
 - Importance vs. Matter-of-Fact
 - Perspective
-- Creativity
-- Concrescence: The dynamic, creative process by which a moment of experience (an "actual occasion") integrates diverse elements from the past into a unified, concrete whole
 - Occasion: What concreses and forms a unity
 - Event: Nexus of occasions
+- Concrescence: The dynamic, creative process by which a moment of experience (an "actual occasion") integrates diverse elements from the past into a unified, concrete whole
 - Actual entities vs. Abstractions
-- The Principle of Relativity
+    - Fallacy of Misplaced Concreteness: modern science mistakenly treats mathematical abstractions—like spatial points, instant time-slices, or pure numerical values—as if they were primary reality
+- Creativity
+- Whitehead's Principle of Relativity
 - Process
 - Prehension
 - Eternal objects: Analogue of Platonic forms, but without having their ontological superiority wrt sense experience
