@@ -6,9 +6,10 @@
 
 - Explanation
     - Criteria for a good explanation: hard to vary
+    - Formalization of explanation: The concept of explanation and explanatory universality cannot be formalized, unlike the notion of Turing completeness. This is related to the non-formalizability of math (i.e., you cannot formalize what is a valid proof) and the openness of science. (DD at Sean Carroll's Mindscape ep.253). " ... we don't have a rigorous mathematical definition of explanatory universality, \[but\] we have a rigorous mathematical understanding that we never will have."
 - Error
 - Some misconceptions:
-    - The mathematician's misconception: the false belief that mathematical proofs provide infallible, certain, and absolute truth independent of physical reality
+    - The mathematician's misconception: the false belief that mathematical proofs provide infallible, certain, and absolute truth independent of physical reality. Part of the false belief that computation and proof can be studied as abstract objects seprate from the physical theory.
     - Precautionary principle
     - Spaceship-earth hypothesis
 - Openness of the universe: epistemological, ontological
@@ -17,6 +18,7 @@
 - Principle of optimism: problems are inevitable, but they are necessarily soluble
 - Principle of self-similarity: Theories and scientific knowledge accurately mirror the abstract and concrete aspects of the physical world. By understanding the universe, our minds are effectively generating a self-similar copy of physical laws. In a way, to know something is to become that object in some sense.
 - Church-Turing-Deutsch principle: Universal quantum computers can simulate/become any other physical object.
+    - Computation = physics
 - Four-strand theory: a coherent synthesis of quantum theory, theory of computation, neo-Darwinism, and Popperian epistemology.
 - Constuctor: a physical object that can produce change without undergoing any change itself
 
