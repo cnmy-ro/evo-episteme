@@ -13,6 +13,7 @@
 - Concrescence: The dynamic, creative process by which a moment of experience (an "actual occasion") integrates diverse elements from the past into a unified, concrete whole
 - Actual entities vs. Abstractions
     - Fallacy of Misplaced Concreteness: modern science mistakenly treats mathematical abstractions—like spatial points, instant time-slices, or pure numerical values—as if they were primary reality
+    - Bifurcation of nature: deep-seated habit of modern Western thought: splitting reality into two distinct, incommensurable categories -- (a) "Causal" (or objective) nature and (b) "Apparent" (or subjective) nature
 - Creativity
 - Whitehead's Principle of Relativity
 - Process

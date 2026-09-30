@@ -30,5 +30,8 @@ Concepts:
 - Ladder of Causation
 
 
-##
+## 
 Nomological network
+
+## Enactivist Cybernetics
+- Jakob von Uexkull's concept of the Umwelt
